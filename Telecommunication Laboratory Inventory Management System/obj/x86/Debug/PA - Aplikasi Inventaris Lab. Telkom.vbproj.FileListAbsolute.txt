@@ -1,0 +1,17 @@
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.Dashboard.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.FormAlat.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.FormKategori.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.FormKomponen.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.FormLaporan.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.FormLokasi.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.FormTransaksi.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.FormUser.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.FormLogin.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.Resources.resources
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA - Aplikasi Inventaris Lab. Telkom.vbproj.GenerateResource.Cache
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\bin\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.exe
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\bin\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.pdb
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\bin\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.xml
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.exe
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.xml
+D:\Wika's Projects\Visual Basic's Projects\PA - Aplikasi Inventaris Lab. Telkom\PA - Aplikasi Inventaris Lab. Telkom\obj\x86\Debug\PA___Aplikasi_Inventaris_Lab.Telkom.pdb
